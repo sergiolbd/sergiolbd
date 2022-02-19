@@ -5,11 +5,28 @@
 - 🌱 I’m currently working on my **Final Degree Project** and in the **External Practices**
 
 ## Languagues and Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />   
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSC" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="30" width="30">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" height="30" width="30">
+</p>
 
+## You can find me 🌍
+<p align="center">
+<a href="https://www.linkedin.com/in//">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sergio Leopoldo LinkedIn Profile" height="30" width="30">
+  </a>
+<a href="https://www.linkedin.com/in//">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sergio Leopoldo LinkedIn Profile" height="30" width="30">
+  </a>
+</p>
+
+## GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiolbd)](https://github.com/anuraghazra/github-readme-stats)
 
-## You can find me 🌍: 
-- [Instagram]()
-- [Linkendin]() 

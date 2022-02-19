@@ -18,7 +18,7 @@
 
 ## You can find me 🌍
 <p align="center">
-<a href="https://www.linkedin.com/in/sergio-leopoldo-ben%C3%ADtez-delgado-816603232/">
+<a href="linkedin.com/in/sergio-leopoldo-benítez-delgado-816603232/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sergio Leopoldo LinkedIn Profile" height="30" width="30">
   </a>
 <a href="">

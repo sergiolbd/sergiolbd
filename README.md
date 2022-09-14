@@ -1,8 +1,8 @@
 ### Hi, I'm Sergio 👋
 
-## I'm a student at the University of Laguna (Spain)
-- 🔭 I'm currently studying the last course of **Computer Engineering**
-- 🌱 I’m currently working on my **Final Degree Project** and in the **External Practices**
+## I'm a Computer Engineer from the the University of Laguna (Spain)
+
+## 🔭 I'm currently working at the company **Kaiztez Analytics**
 
 ## Languagues and Tools
 <p align="center">

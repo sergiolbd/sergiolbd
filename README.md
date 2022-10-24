@@ -2,7 +2,7 @@
 
 ## I'm a Computer Engineer from the the University of Laguna (Spain)
 
-## 🔭 I'm currently working at the company **Kaiztez Analytics**
+## 🔭 I'm currently working at the company **Kaizten Analytics**
 
 ## Languagues and Tools
 <p align="center">
